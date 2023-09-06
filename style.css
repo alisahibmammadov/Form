@@ -70,14 +70,6 @@ body {
   border-color: #ad3352;
   border-width: 3px;
 }
-
-
-.form-page .username {
-}
-.form-page .email {
-}
-.form-page .password {
-}
 .form-page .submit {
   background: linear-gradient(to right, #f75761, #ad3352);
   color: #fff;
